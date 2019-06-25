@@ -11,3 +11,4 @@ Es necesario instalar las siguientes librerías para el correcto funcionamiento 
 - gensim
 - numpy
 - pandas
+- ipywidgets
